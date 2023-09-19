@@ -2814,5 +2814,73 @@
         "io_file": "meeting"
       }
     }
+  },
+  "2014dec": {
+    "Gold": {
+      "1": {
+        "title": "Guard Mark",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=494",
+        "whole_title": "USACO 2014 December Contest, Gold \n Problem 1. Guard Mark",
+        "io_file": "guard"
+      },
+      "2": {
+        "title": "Marathon",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=495",
+        "whole_title": "USACO 2014 December Contest, Gold \n Problem 2. Marathon",
+        "io_file": "marathon"
+      },
+      "3": {
+        "title": "Cow Jog",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=496",
+        "whole_title": "USACO 2014 December Contest, Gold \n Problem 3. Cow Jog",
+        "io_file": "cowjog"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Piggyback",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=491",
+        "whole_title": "USACO 2014 December Contest, Silver \n Problem 1. Piggyback",
+        "io_file": "piggyback"
+      },
+      "2": {
+        "title": "Marathon",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=492",
+        "whole_title": "USACO 2014 December Contest, Silver \n Problem 2. Marathon",
+        "io_file": "marathon"
+      },
+      "3": {
+        "title": "Cow Jog",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=493",
+        "whole_title": "USACO 2014 December Contest, Silver \n Problem 3. Cow Jog",
+        "io_file": "cowjog"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Marathon",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=487",
+        "whole_title": "USACO 2014 December Contest, Bronze \n Problem 1. Marathon",
+        "io_file": "marathon"
+      },
+      "2": {
+        "title": "Crosswords",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=488",
+        "whole_title": "USACO 2014 December Contest, Bronze \n Problem 2. Crosswords",
+        "io_file": "crosswords"
+      },
+      "3": {
+        "title": "Cow Jog",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=489",
+        "whole_title": "USACO 2014 December Contest, Bronze \n Problem 3. Cow Jog",
+        "io_file": "cowjog"
+      },
+      "4": {
+        "title": "Learning by Example",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=490",
+        "whole_title": "USACO 2014 December Contest, Bronze \n Problem 4. Learning by Example",
+        "io_file": "learning"
+      }
+    }
   }
 }

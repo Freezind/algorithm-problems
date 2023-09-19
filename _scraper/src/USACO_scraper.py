@@ -8,7 +8,7 @@ def get_contest_from_link(link: str) -> str:
     contest = '20' + contest[-2:] + contest[:-2]
 
     # USACO offical site provide past context problems since 2014 - 2015
-    if int(contest[:4]) >= 2015 or int(contest[:4]) == '2014Dec':
+    if int(contest[:4]) >= 2015 or contest == '2014dec':
         return contest
 
     return ''
