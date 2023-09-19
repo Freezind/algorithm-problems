@@ -4,14 +4,19 @@ from scraper import *
 from USACO_common import *
 
 def get_contest_from_link(link: str) -> str:
-    contest = link['href'].replace('index.php?page=', '').replace('results', '')
+    contest = link.replace('index.php?page=', '').replace('results', '')
     contest = '20' + contest[-2:] + contest[:-2]
+    print(contest, link)
 
-    # USACO offical site provide past context problems since 2014 - 2015
+    # USACO offical site provide past context problems since 2011
     if int(contest[:4]) >= 2015 or contest == '2014dec':
-        return contest
+        return contest, link
 
-    return ''
+    # There contest page is different before 2014 and there is no platinum division
+    if 2011 <= int(contest[:4]) <= 2014:
+        return contest, link.replace('results', 'problems')
+
+    return '', None
 
 
 class USACOScraper(Scraper):
@@ -19,13 +24,13 @@ class USACOScraper(Scraper):
         super().__init__(data_file, host, force_updated)
 
     def fetch_problem(self, link: str) -> dict:
-        contest = get_contest_from_link(link)
+        contest, link = get_contest_from_link(link)
 
         if contest:
             if contest not in self.data:
                 self.data[contest] = {}
 
-                problem_links = get_page_soup(host + link['href']).find_all('a', string='View problem')
+                problem_links = get_page_soup(host + link).find_all('a', string='View problem')
 
                 for problem_link in problem_links:
                     problem_data = self.get_problems(problem_link['href'], self.data[contest])
@@ -44,7 +49,7 @@ class USACOScraper(Scraper):
 
         division_match = re.search(r'(Bronze|Silver|Gold|Platinum)', panel_text)
         title_match = re.search(r'Problem\s+(\d+)\. (.+)', panel_text)
-        io_format_match = re.search(r'INPUT(:| FORMAT) \((.*)\)', problem_text)
+        io_format_match = re.search(r'INPUT(:| FORMAT|) \((.*)\)', problem_text)
 
         if not division_match or not title_match:
             raise Exception('Problem page format is not correct, need manual check')
@@ -71,7 +76,7 @@ class USACOScraper(Scraper):
         results_links = get_page_soup(host + 'index.php?page=contests').select('a[href*="results"]')
 
         for link in results_links:
-            self.fetch_problem(link)
+            self.fetch_problem(link['href'])
 
         self.data = dict(sorted(self.data.items(), key=contests_sort_key, reverse=True))
 

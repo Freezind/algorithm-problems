@@ -1,7 +1,7 @@
 # USACO
-#### Bronze Solved 0/111 0.00%
-#### Silver Solved 0/108 0.00%
-#### Gold Solved 0/107 0.00%
+#### Bronze Solved 0/168 0.00%
+#### Silver Solved 0/162 0.00%
+#### Gold Solved 0/161 0.00%
 #### Platinum Solved 0/96 0.00%
 # 2023open
 
@@ -604,4 +604,259 @@
 | Bronze 2 | Crosswords | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=488) | [2014dec/Bronze/2.py](2014dec/Bronze/2.py) | unsolved |
 | Bronze 3 | Cow Jog | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=489) | [2014dec/Bronze/3.py](2014dec/Bronze/3.py) | unsolved |
 | Bronze 4 | Learning by Example | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=490) | [2014dec/Bronze/4.py](2014dec/Bronze/4.py) | unsolved |
+
+# 2014open
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Fair Photography | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=436) | [2014open/Gold/1.py](2014open/Gold/1.py) | unsolved |
+| Gold 2 | Cow Optics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=437) | [2014open/Gold/2.py](2014open/Gold/2.py) | unsolved |
+| Gold 3 | Code Breaking | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=438) | [2014open/Gold/3.py](2014open/Gold/3.py) | unsolved |
+| Silver 1 | Fair Photography | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=433) | [2014open/Silver/1.py](2014open/Silver/1.py) | unsolved |
+| Silver 2 | Dueling GPSs | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=434) | [2014open/Silver/2.py](2014open/Silver/2.py) | unsolved |
+| Silver 3 | Odometer | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=435) | [2014open/Silver/3.py](2014open/Silver/3.py) | unsolved |
+| Bronze 1 | Odometer | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=430) | [2014open/Bronze/1.py](2014open/Bronze/1.py) | unsolved |
+| Bronze 2 | Fair Photography | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=431) | [2014open/Bronze/2.py](2014open/Bronze/2.py) | unsolved |
+| Bronze 3 | Decorating the Pastures | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=432) | [2014open/Bronze/3.py](2014open/Bronze/3.py) | unsolved |
+
+# 2014mar
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | The Lazy Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=418) | [2014mar/Gold/1.py](2014mar/Gold/1.py) | unsolved |
+| Gold 2 | Sabotage | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=419) | [2014mar/Gold/2.py](2014mar/Gold/2.py) | unsolved |
+| Gold 3 | Counting Friends | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=420) | [2014mar/Gold/3.py](2014mar/Gold/3.py) | unsolved |
+| Silver 1 | Watering the Fields | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=415) | [2014mar/Silver/1.py](2014mar/Silver/1.py) | unsolved |
+| Silver 2 | The Lazy Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=416) | [2014mar/Silver/2.py](2014mar/Silver/2.py) | unsolved |
+| Silver 3 | Mooo Moo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=417) | [2014mar/Silver/3.py](2014mar/Silver/3.py) | unsolved |
+| Bronze 1 | Reordering the Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=412) | [2014mar/Bronze/1.py](2014mar/Bronze/1.py) | unsolved |
+| Bronze 2 | The Lazy Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=413) | [2014mar/Bronze/2.py](2014mar/Bronze/2.py) | unsolved |
+| Bronze 3 | Cow Art | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=414) | [2014mar/Bronze/3.py](2014mar/Bronze/3.py) | unsolved |
+
+# 2014feb
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Roadblock | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=400) | [2014feb/Gold/1.py](2014feb/Gold/1.py) | unsolved |
+| Gold 2 | Cow Decathlon | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=401) | [2014feb/Gold/2.py](2014feb/Gold/2.py) | unsolved |
+| Gold 3 | Airplane Boarding | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=402) | [2014feb/Gold/3.py](2014feb/Gold/3.py) | unsolved |
+| Silver 1 | Auto-Complete | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=397) | [2014feb/Silver/1.py](2014feb/Silver/1.py) | unsolved |
+| Silver 2 | Roadblock | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=398) | [2014feb/Silver/2.py](2014feb/Silver/2.py) | unsolved |
+| Silver 3 | Secret Code | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=399) | [2014feb/Silver/3.py](2014feb/Silver/3.py) | unsolved |
+| Bronze 1 | Mirror Field | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=394) | [2014feb/Bronze/1.py](2014feb/Bronze/1.py) | unsolved |
+| Bronze 2 | Auto-Complete | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=395) | [2014feb/Bronze/2.py](2014feb/Bronze/2.py) | unsolved |
+| Bronze 3 | Secret Code | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=396) | [2014feb/Bronze/3.py](2014feb/Bronze/3.py) | unsolved |
+
+# 2014jan
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Cow Curling | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=382) | [2014jan/Gold/1.py](2014jan/Gold/1.py) | unsolved |
+| Gold 2 | Building a Ski Course | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=383) | [2014jan/Gold/2.py](2014jan/Gold/2.py) | unsolved |
+| Gold 3 | Ski Course Rating | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=384) | [2014jan/Gold/3.py](2014jan/Gold/3.py) | unsolved |
+| Silver 1 | Bessie Slows Down | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=379) | [2014jan/Silver/1.py](2014jan/Silver/1.py) | unsolved |
+| Silver 2 | Cross Country Skiing | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=380) | [2014jan/Silver/2.py](2014jan/Silver/2.py) | unsolved |
+| Silver 3 | Recording the Moolympics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=381) | [2014jan/Silver/3.py](2014jan/Silver/3.py) | unsolved |
+| Bronze 1 | Ski Course Design | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=376) | [2014jan/Bronze/1.py](2014jan/Bronze/1.py) | unsolved |
+| Bronze 2 | Bessie Slows Down | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=377) | [2014jan/Bronze/2.py](2014jan/Bronze/2.py) | unsolved |
+| Bronze 3 | Balanced Teams | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=378) | [2014jan/Bronze/3.py](2014jan/Bronze/3.py) | unsolved |
+
+# 2013dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Vacation Planning (gold) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=364) | [2013dec/Gold/1.py](2013dec/Gold/1.py) | unsolved |
+| Gold 2 | Optimal Milking | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=365) | [2013dec/Gold/2.py](2013dec/Gold/2.py) | unsolved |
+| Gold 3 | The Bessie Shuffle (gold) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=366) | [2013dec/Gold/3.py](2013dec/Gold/3.py) | unsolved |
+| Silver 1 | Milk Scheduling | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=361) | [2013dec/Silver/1.py](2013dec/Silver/1.py) | unsolved |
+| Silver 2 | Vacation Planning | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=362) | [2013dec/Silver/2.py](2013dec/Silver/2.py) | unsolved |
+| Silver 3 | The Bessie Shuffle | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=363) | [2013dec/Silver/3.py](2013dec/Silver/3.py) | unsolved |
+| Bronze 1 | Record Keeping | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=358) | [2013dec/Bronze/1.py](2013dec/Bronze/1.py) | unsolved |
+| Bronze 2 | Cow Baseball | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=359) | [2013dec/Bronze/2.py](2013dec/Bronze/2.py) | unsolved |
+| Bronze 3 | Wormholes | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=360) | [2013dec/Bronze/3.py](2013dec/Bronze/3.py) | unsolved |
+
+# 2013nov
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Empty Stalls | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=346) | [2013nov/Gold/1.py](2013nov/Gold/1.py) | unsolved |
+| Gold 2 | Line of Sight | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=347) | [2013nov/Gold/2.py](2013nov/Gold/2.py) | unsolved |
+| Gold 3 | No Change | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=348) | [2013nov/Gold/3.py](2013nov/Gold/3.py) | unsolved |
+| Silver 1 | Farmer John has no Large Brown Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=343) | [2013nov/Silver/1.py](2013nov/Silver/1.py) | unsolved |
+| Silver 2 | Crowded Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=344) | [2013nov/Silver/2.py](2013nov/Silver/2.py) | unsolved |
+| Silver 3 | Pogo-Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=345) | [2013nov/Silver/3.py](2013nov/Silver/3.py) | unsolved |
+| Bronze 1 | Combination Lock | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=340) | [2013nov/Bronze/1.py](2013nov/Bronze/1.py) | unsolved |
+| Bronze 2 | Goldilocks and the N Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=341) | [2013nov/Bronze/2.py](2013nov/Bronze/2.py) | unsolved |
+| Bronze 3 | Farmer John has no Large Brown Cow | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=342) | [2013nov/Bronze/3.py](2013nov/Bronze/3.py) | unsolved |
+
+# 2013open
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Photo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=285) | [2013open/Gold/1.py](2013open/Gold/1.py) | unsolved |
+| Gold 2 | Yin and Yang | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=286) | [2013open/Gold/2.py](2013open/Gold/2.py) | unsolved |
+| Gold 3 | Figure Eight | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=287) | [2013open/Gold/3.py](2013open/Gold/3.py) | unsolved |
+| Silver 1 | What's Up With Gravity | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=282) | [2013open/Silver/1.py](2013open/Silver/1.py) | unsolved |
+| Silver 2 | Fuel Economy | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=283) | [2013open/Silver/2.py](2013open/Silver/2.py) | unsolved |
+| Silver 3 | Luxury River Cruise | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=284) | [2013open/Silver/3.py](2013open/Silver/3.py) | unsolved |
+| Bronze 1 | Bovine Ballet | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=278) | [2013open/Bronze/1.py](2013open/Bronze/1.py) | unsolved |
+| Bronze 2 | Blink | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=279) | [2013open/Bronze/2.py](2013open/Bronze/2.py) | unsolved |
+| Bronze 3 | Photo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=280) | [2013open/Bronze/3.py](2013open/Bronze/3.py) | unsolved |
+| Bronze 4 | Haywire | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=281) | [2013open/Bronze/4.py](2013open/Bronze/4.py) | unsolved |
+
+# 2013mar
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | The Cow Run | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=265) | [2013mar/Gold/1.py](2013mar/Gold/1.py) | unsolved |
+| Gold 2 | Hill Walk | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=266) | [2013mar/Gold/2.py](2013mar/Gold/2.py) | unsolved |
+| Gold 3 | Necklace | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=267) | [2013mar/Gold/3.py](2013mar/Gold/3.py) | unsolved |
+| Silver 1 | Poker Hands | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=262) | [2013mar/Silver/1.py](2013mar/Silver/1.py) | unsolved |
+| Silver 2 | Farm Painting | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=263) | [2013mar/Silver/2.py](2013mar/Silver/2.py) | unsolved |
+| Silver 3 | The Cow Run | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=264) | [2013mar/Silver/3.py](2013mar/Silver/3.py) | unsolved |
+| Bronze 1 | Cow Race | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=259) | [2013mar/Bronze/1.py](2013mar/Bronze/1.py) | unsolved |
+| Bronze 2 | Breed Proximity | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=260) | [2013mar/Bronze/2.py](2013mar/Bronze/2.py) | unsolved |
+| Bronze 3 | Breed Assignment | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=261) | [2013mar/Bronze/3.py](2013mar/Bronze/3.py) | unsolved |
+
+# 2013feb
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Partitioning the Farm | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=247) | [2013feb/Gold/1.py](2013feb/Gold/1.py) | unsolved |
+| Gold 2 | Taxi | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=248) | [2013feb/Gold/2.py](2013feb/Gold/2.py) | unsolved |
+| Gold 3 | Route Design | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=249) | [2013feb/Gold/3.py](2013feb/Gold/3.py) | unsolved |
+| Silver 1 | Perimeter | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=244) | [2013feb/Silver/1.py](2013feb/Silver/1.py) | unsolved |
+| Silver 2 | Tractor | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=245) | [2013feb/Silver/2.py](2013feb/Silver/2.py) | unsolved |
+| Silver 3 | Milk Scheduling | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=246) | [2013feb/Silver/3.py](2013feb/Silver/3.py) | unsolved |
+| Bronze 1 | Message Relay | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=241) | [2013feb/Bronze/1.py](2013feb/Bronze/1.py) | unsolved |
+| Bronze 2 | Cow Crossings | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=242) | [2013feb/Bronze/2.py](2013feb/Bronze/2.py) | unsolved |
+| Bronze 3 | Perimeter | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=243) | [2013feb/Bronze/3.py](2013feb/Bronze/3.py) | unsolved |
+
+# 2013jan
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Cow Lineup | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=229) | [2013jan/Gold/1.py](2013jan/Gold/1.py) | unsolved |
+| Gold 2 | Island Travels | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=230) | [2013jan/Gold/2.py](2013jan/Gold/2.py) | unsolved |
+| Gold 3 | Seating | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=231) | [2013jan/Gold/3.py](2013jan/Gold/3.py) | unsolved |
+| Silver 1 | Painting the Fence | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=226) | [2013jan/Silver/1.py](2013jan/Silver/1.py) | unsolved |
+| Silver 2 | Square Overlap | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=227) | [2013jan/Silver/2.py](2013jan/Silver/2.py) | unsolved |
+| Silver 3 | Party Invitations | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=228) | [2013jan/Silver/3.py](2013jan/Silver/3.py) | unsolved |
+| Bronze 1 | Mirrors | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=223) | [2013jan/Bronze/1.py](2013jan/Bronze/1.py) | unsolved |
+| Bronze 2 | Painting the Fence | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=224) | [2013jan/Bronze/2.py](2013jan/Bronze/2.py) | unsolved |
+| Bronze 3 | Liars and Truth Tellers | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=225) | [2013jan/Bronze/3.py](2013jan/Bronze/3.py) | unsolved |
+
+# 2012dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Gangs of Instanbull/Cowstantinople | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=211) | [2012dec/Gold/1.py](2012dec/Gold/1.py) | unsolved |
+| Gold 2 | First! | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=212) | [2012dec/Gold/2.py](2012dec/Gold/2.py) | unsolved |
+| Gold 3 | Running Away From the Barn | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=213) | [2012dec/Gold/3.py](2012dec/Gold/3.py) | unsolved |
+| Silver 1 | Crazy Fences | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=208) | [2012dec/Silver/1.py](2012dec/Silver/1.py) | unsolved |
+| Silver 2 | Wifi Setup | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=209) | [2012dec/Silver/2.py](2012dec/Silver/2.py) | unsolved |
+| Silver 3 | Milk Routing | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=210) | [2012dec/Silver/3.py](2012dec/Silver/3.py) | unsolved |
+| Bronze 1 | Meet and Greet | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=205) | [2012dec/Bronze/1.py](2012dec/Bronze/1.py) | unsolved |
+| Bronze 2 | Scrambled Letters | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=206) | [2012dec/Bronze/2.py](2012dec/Bronze/2.py) | unsolved |
+| Bronze 3 | Crazy Fences | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=207) | [2012dec/Bronze/3.py](2012dec/Bronze/3.py) | unsolved |
+
+# 2012nov
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Balanced Cow Breeds | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=193) | [2012nov/Gold/1.py](2012nov/Gold/1.py) | unsolved |
+| Gold 2 | Concurrently Balanced Strings | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=194) | [2012nov/Gold/2.py](2012nov/Gold/2.py) | unsolved |
+| Gold 3 | Balanced Trees | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=195) | [2012nov/Gold/3.py](2012nov/Gold/3.py) | unsolved |
+| Silver 1 | Clumsy Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=190) | [2012nov/Silver/1.py](2012nov/Silver/1.py) | unsolved |
+| Silver 2 | Distant Pastures | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=191) | [2012nov/Silver/2.py](2012nov/Silver/2.py) | unsolved |
+| Silver 3 | Balanced Cow Breeds | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=192) | [2012nov/Silver/3.py](2012nov/Silver/3.py) | unsolved |
+| Bronze 1 | Find the Cow! | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=187) | [2012nov/Bronze/1.py](2012nov/Bronze/1.py) | unsolved |
+| Bronze 2 | Typo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=188) | [2012nov/Bronze/2.py](2012nov/Bronze/2.py) | unsolved |
+| Bronze 3 | Horseshoes | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=189) | [2012nov/Bronze/3.py](2012nov/Bronze/3.py) | unsolved |
+
+# 2012open
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Tied Down | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=137) | [2012open/Gold/1.py](2012open/Gold/1.py) | unsolved |
+| Gold 2 | Bookshelf | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=138) | [2012open/Gold/2.py](2012open/Gold/2.py) | unsolved |
+| Gold 3 | Balanced Cow Subsets | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=139) | [2012open/Gold/3.py](2012open/Gold/3.py) | unsolved |
+| Silver 1 | Unlocking Blocks (Silver) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=134) | [2012open/Silver/1.py](2012open/Silver/1.py) | unsolved |
+| Silver 2 | Bookshelf (Silver) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=135) | [2012open/Silver/2.py](2012open/Silver/2.py) | unsolved |
+| Silver 3 | Running Laps | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=136) | [2012open/Silver/3.py](2012open/Silver/3.py) | unsolved |
+| Bronze 1 | Cows in a Row | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=130) | [2012open/Bronze/1.py](2012open/Bronze/1.py) | unsolved |
+| Bronze 2 | Three Lines | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=131) | [2012open/Bronze/2.py](2012open/Bronze/2.py) | unsolved |
+| Bronze 3 | Islands | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=132) | [2012open/Bronze/3.py](2012open/Bronze/3.py) | unsolved |
+| Bronze 4 | Unlocking Blocks | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=133) | [2012open/Bronze/4.py](2012open/Bronze/4.py) | unsolved |
+
+# 2012mar
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Large Banner | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=127) | [2012mar/Gold/1.py](2012mar/Gold/1.py) | unsolved |
+| Gold 2 | Haybale Restacking | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=128) | [2012mar/Gold/2.py](2012mar/Gold/2.py) | unsolved |
+| Gold 3 | Cows in a Skyscraper | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=129) | [2012mar/Gold/3.py](2012mar/Gold/3.py) | unsolved |
+| Silver 1 | Tractor | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=124) | [2012mar/Silver/1.py](2012mar/Silver/1.py) | unsolved |
+| Silver 2 | Flowerpot | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=125) | [2012mar/Silver/2.py](2012mar/Silver/2.py) | unsolved |
+| Silver 3 | Landscaping | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=126) | [2012mar/Silver/3.py](2012mar/Silver/3.py) | unsolved |
+| Bronze 1 | Times 17 | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=121) | [2012mar/Bronze/1.py](2012mar/Bronze/1.py) | unsolved |
+| Bronze 2 | Connect the Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=122) | [2012mar/Bronze/2.py](2012mar/Bronze/2.py) | unsolved |
+| Bronze 3 | Wrong Directions | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=123) | [2012mar/Bronze/3.py](2012mar/Bronze/3.py) | unsolved |
+
+# 2012feb
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Cow Coupons | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=118) | [2012feb/Gold/1.py](2012feb/Gold/1.py) | unsolved |
+| Gold 2 | Symmetry | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=119) | [2012feb/Gold/2.py](2012feb/Gold/2.py) | unsolved |
+| Gold 3 | Nearby Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=120) | [2012feb/Gold/3.py](2012feb/Gold/3.py) | unsolved |
+| Silver 1 | Overplanting (Silver) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=115) | [2012feb/Silver/1.py](2012feb/Silver/1.py) | unsolved |
+| Silver 2 | Cow IDs | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=116) | [2012feb/Silver/2.py](2012feb/Silver/2.py) | unsolved |
+| Silver 3 | Relocation | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=117) | [2012feb/Silver/3.py](2012feb/Silver/3.py) | unsolved |
+| Bronze 1 | Rope Folding | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=112) | [2012feb/Bronze/1.py](2012feb/Bronze/1.py) | unsolved |
+| Bronze 2 | Overplanting (Bronze) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=113) | [2012feb/Bronze/2.py](2012feb/Bronze/2.py) | unsolved |
+| Bronze 3 | Moo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=114) | [2012feb/Bronze/3.py](2012feb/Bronze/3.py) | unsolved |
+
+# 2012jan
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Video Game | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=109) | [2012jan/Gold/1.py](2012jan/Gold/1.py) | unsolved |
+| Gold 2 | Cow Run | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=110) | [2012jan/Gold/2.py](2012jan/Gold/2.py) | unsolved |
+| Gold 3 | Bovine Alliance | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=111) | [2012jan/Gold/3.py](2012jan/Gold/3.py) | unsolved |
+| Silver 1 | Delivery Route | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=106) | [2012jan/Silver/1.py](2012jan/Silver/1.py) | unsolved |
+| Silver 2 | Bale Share | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=107) | [2012jan/Silver/2.py](2012jan/Silver/2.py) | unsolved |
+| Silver 3 | Mountain Climbing | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=108) | [2012jan/Silver/3.py](2012jan/Silver/3.py) | unsolved |
+| Bronze 1 | Gifts | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=103) | [2012jan/Bronze/1.py](2012jan/Bronze/1.py) | unsolved |
+| Bronze 2 | Haybale Stacking | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=104) | [2012jan/Bronze/2.py](2012jan/Bronze/2.py) | unsolved |
+| Bronze 3 | Grazing Patterns | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=105) | [2012jan/Bronze/3.py](2012jan/Bronze/3.py) | unsolved |
+
+# 2011dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Cow Photography | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=100) | [2011dec/Gold/1.py](2011dec/Gold/1.py) | unsolved |
+| Gold 2 | Simplifying the Farm | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=101) | [2011dec/Gold/2.py](2011dec/Gold/2.py) | unsolved |
+| Gold 3 | Grass Planting | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=102) | [2011dec/Gold/3.py](2011dec/Gold/3.py) | unsolved |
+| Silver 1 | Cow Photography | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=97) | [2011dec/Silver/1.py](2011dec/Silver/1.py) | unsolved |
+| Silver 2 | Roadblock | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=98) | [2011dec/Silver/2.py](2011dec/Silver/2.py) | unsolved |
+| Silver 3 | Umbrellas for Cows | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=99) | [2011dec/Silver/3.py](2011dec/Silver/3.py) | unsolved |
+| Bronze 1 | Hay Bales | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=94) | [2011dec/Bronze/1.py](2011dec/Bronze/1.py) | unsolved |
+| Bronze 2 | Cow Photography (Bronze Level) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=95) | [2011dec/Bronze/2.py](2011dec/Bronze/2.py) | unsolved |
+| Bronze 3 | Escaping the Farm | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=96) | [2011dec/Bronze/3.py](2011dec/Bronze/3.py) | unsolved |
+
+# 2011nov
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Above the Median | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=91) | [2011nov/Gold/1.py](2011nov/Gold/1.py) | unsolved |
+| Gold 2 | Binary Sudoku | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=92) | [2011nov/Gold/2.py](2011nov/Gold/2.py) | unsolved |
+| Gold 3 | Cow Steeplechase | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=93) | [2011nov/Gold/3.py](2011nov/Gold/3.py) | unsolved |
+| Silver 1 | Cow Beauty Pageant (Silver Level) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=88) | [2011nov/Silver/1.py](2011nov/Silver/1.py) | unsolved |
+| Silver 2 | Cow Lineup | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=89) | [2011nov/Silver/2.py](2011nov/Silver/2.py) | unsolved |
+| Silver 3 | Tile Exchanging | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=90) | [2011nov/Silver/3.py](2011nov/Silver/3.py) | unsolved |
+| Bronze 1 | Contest Timing | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=84) | [2011nov/Bronze/1.py](2011nov/Bronze/1.py) | unsolved |
+| Bronze 2 | Awkward Digits | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=85) | [2011nov/Bronze/2.py](2011nov/Bronze/2.py) | unsolved |
+| Bronze 3 | Moo Sick | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=86) | [2011nov/Bronze/3.py](2011nov/Bronze/3.py) | unsolved |
+| Bronze 4 | Cow Beauty Pageant (Bronze Level) | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=87) | [2011nov/Bronze/4.py](2011nov/Bronze/4.py) | unsolved |
 
