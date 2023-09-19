@@ -1,7 +1,7 @@
 # USACO
-#### Bronze Solved 0/107 0.00%
-#### Silver Solved 0/105 0.00%
-#### Gold Solved 0/104 0.00%
+#### Bronze Solved 0/111 0.00%
+#### Silver Solved 0/108 0.00%
+#### Gold Solved 0/107 0.00%
 #### Platinum Solved 0/96 0.00%
 # 2023open
 
@@ -589,4 +589,19 @@
 | Bronze 2 | Cow Routing II | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=508) | [2015jan/Bronze/2.py](2015jan/Bronze/2.py) | unsolved |
 | Bronze 3 | It's All About the Base | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=509) | [2015jan/Bronze/3.py](2015jan/Bronze/3.py) | unsolved |
 | Bronze 4 | Meeting Time | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=510) | [2015jan/Bronze/4.py](2015jan/Bronze/4.py) | unsolved |
+
+# 2014dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Gold 1 | Guard Mark | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=494) | [2014dec/Gold/1.py](2014dec/Gold/1.py) | unsolved |
+| Gold 2 | Marathon | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=495) | [2014dec/Gold/2.py](2014dec/Gold/2.py) | unsolved |
+| Gold 3 | Cow Jog | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=496) | [2014dec/Gold/3.py](2014dec/Gold/3.py) | unsolved |
+| Silver 1 | Piggyback | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=491) | [2014dec/Silver/1.py](2014dec/Silver/1.py) | unsolved |
+| Silver 2 | Marathon | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=492) | [2014dec/Silver/2.py](2014dec/Silver/2.py) | unsolved |
+| Silver 3 | Cow Jog | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=493) | [2014dec/Silver/3.py](2014dec/Silver/3.py) | unsolved |
+| Bronze 1 | Marathon | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=487) | [2014dec/Bronze/1.py](2014dec/Bronze/1.py) | unsolved |
+| Bronze 2 | Crosswords | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=488) | [2014dec/Bronze/2.py](2014dec/Bronze/2.py) | unsolved |
+| Bronze 3 | Cow Jog | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=489) | [2014dec/Bronze/3.py](2014dec/Bronze/3.py) | unsolved |
+| Bronze 4 | Learning by Example | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=490) | [2014dec/Bronze/4.py](2014dec/Bronze/4.py) | unsolved |
 
