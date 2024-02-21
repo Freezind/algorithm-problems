@@ -1,8 +1,8 @@
 name: fetch
 
 on:
-  schedule:
-    - cron: '0 0 * 1-4,12 *'
+  # schedule:
+  #   - cron: '0 0 * 1-5 3'
   workflow_dispatch:
 
 jobs:
@@ -32,7 +32,7 @@ jobs:
       run: cd _scraper && pdm install
 
     - name: run USACO markdown scraper
-      run: cd _scraper && pdm run src/USACO_scraper.py
+      run: cd _scraper && pdm run src/USACO_scraper.py && pdm run src/USACO_templator.py
 
     - name: Commit and push
       run: |

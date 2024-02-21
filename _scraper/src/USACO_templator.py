@@ -45,44 +45,50 @@ class USACOTemplator(Templator):
                         os.makedirs(problem_path)
 
                     if 'cpp' in languages:
-                        with open(f'{problem_path}/{problem}.cpp', 'w') as f:
-                            first_line, second_line = whole_title.split(' \n ')
-                            f.write(f'// {first_line}\n')
-                            f.write(f'// {second_line}\n')
-                            f.write(f'// link: {problem_data["link"]}\n')
-                            f.write('// status: unsolved\n')
-                            f.write('// tag:\n')
-                            f.write('\n')
-                            f.write(cpp_template.replace(
-                                f'{" "*cpp_indent}// __IO_PLACEHOLDER__\n', get_file_io(problem_data['io_file'], 'cpp', cpp_indent)))
+                        source_code_path = f'{problem_path}/{problem}.cpp'
+                        if not os.path.exists(source_code_path):
+                            with open(source_code_path, 'w') as f:
+                                first_line, second_line = whole_title.split(' \n ')
+                                f.write(f'// {first_line}\n')
+                                f.write(f'// {second_line}\n')
+                                f.write(f'// link: {problem_data["link"]}\n')
+                                f.write('// status: unsolved\n')
+                                f.write('// tag:\n')
+                                f.write('\n')
+                                f.write(cpp_template.replace(
+                                    f'{" "*cpp_indent}// __IO_PLACEHOLDER__\n', get_file_io(problem_data['io_file'], 'cpp', cpp_indent)))
 
                     if 'java' in languages:
-                        with open(f'{problem_path}/{file_name}.java', 'w') as f:
-                            first_line, second_line = whole_title.split(' \n ')
-                            f.write(f'// {first_line}\n')
-                            f.write(f'// {second_line}\n')
-                            f.write(f'// link: {problem_data["link"]}\n')
-                            f.write('// status: unsolved\n')
-                            f.write('// tag:\n')
-                            f.write('\n')
-                            f.write(java_template.replace(
-                                f'{" "*java_indent}// __IO_PLACEHOLDER__\n', get_file_io(problem_data['io_file'], 'java', java_indent))
-                                .replace('public class _template', f'public class {file_name}'))
+                        source_code_path = f'{problem_path}/{file_name}.java'
+                        if not os.path.exists(source_code_path):
+                            with open(source_code_path, 'w') as f:
+                                first_line, second_line = whole_title.split(' \n ')
+                                f.write(f'// {first_line}\n')
+                                f.write(f'// {second_line}\n')
+                                f.write(f'// link: {problem_data["link"]}\n')
+                                f.write('// status: unsolved\n')
+                                f.write('// tag:\n')
+                                f.write('\n')
+                                f.write(java_template.replace(
+                                    f'{" "*java_indent}// __IO_PLACEHOLDER__\n', get_file_io(problem_data['io_file'], 'java', java_indent))
+                                    .replace('public class _template', f'public class {file_name}'))
 
                     if 'py' in languages:
-                        with open(f'{problem_path}/{problem}.py', 'w') as f:
-                            first_line, second_line = whole_title.split(' \n ')
-                            f.write(f'# {first_line}\n')
-                            f.write(f'# {second_line}\n')
-                            f.write(f'# link: {problem_data["link"]}\n')
-                            f.write('# status: unsolved\n')
-                            f.write('# tag:\n')
-                            f.write('\n')
-                            f.write(py_template.replace(
-                                f'{" "*py_indent}# __IO_PLACEHOLDER__\n', get_file_io(problem_data['io_file'], 'py', py_indent)))
+                        source_code_path = f'{problem_path}/{problem}.py'
+                        if not os.path.exists(source_code_path):
+                            with open(source_code_path, 'w') as f:
+                                first_line, second_line = whole_title.split(' \n ')
+                                f.write(f'# {first_line}\n')
+                                f.write(f'# {second_line}\n')
+                                f.write(f'# link: {problem_data["link"]}\n')
+                                f.write('# status: unsolved\n')
+                                f.write('# tag:\n')
+                                f.write('\n')
+                                f.write(py_template.replace(
+                                    f'{" "*py_indent}# __IO_PLACEHOLDER__\n', get_file_io(problem_data['io_file'], 'py', py_indent)))
 
-                    print(
-                        f'Generated template for, {first_line}, {second_line}')
+                                print(
+                                    f'Generated template for, {first_line}, {second_line}')
 
 
 if __name__ == '__main__':

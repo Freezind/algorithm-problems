@@ -1,4 +1,168 @@
 {
+  "2024jan": {
+    "Platinum": {
+      "1": {
+        "title": "Island Vacation",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1380",
+        "whole_title": "USACO 2024 January Contest, Platinum \n Problem 1. Island Vacation",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Merging Cells",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1381",
+        "whole_title": "USACO 2024 January Contest, Platinum \n Problem 2. Merging Cells",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Mooball Teams III",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1382",
+        "whole_title": "USACO 2024 January Contest, Platinum \n Problem 3. Mooball Teams III",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Walking in Manhattan",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1377",
+        "whole_title": "USACO 2024 January Contest, Gold \n Problem 1. Walking in Manhattan",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Cowmpetency",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1378",
+        "whole_title": "USACO 2024 January Contest, Gold \n Problem 2. Cowmpetency",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Nap Sort",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1379",
+        "whole_title": "USACO 2024 January Contest, Gold \n Problem 3. Nap Sort",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Cowmpetency",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1374",
+        "whole_title": "USACO 2024 January Contest, Silver \n Problem 1. Cowmpetency",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Potion Farming",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1375",
+        "whole_title": "USACO 2024 January Contest, Silver \n Problem 2. Potion Farming",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Cowlendar",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1376",
+        "whole_title": "USACO 2024 January Contest, Silver \n Problem 3. Cowlendar",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Majority Opinion",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1371",
+        "whole_title": "USACO 2024 January Contest, Bronze \n Problem 1. Majority Opinion",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Cannonball",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1372",
+        "whole_title": "USACO 2024 January Contest, Bronze \n Problem 2. Cannonball",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Balancing Bacteria",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1373",
+        "whole_title": "USACO 2024 January Contest, Bronze \n Problem 3. Balancing Bacteria",
+        "io_file": "stdio"
+      }
+    }
+  },
+  "2023dec": {
+    "Platinum": {
+      "1": {
+        "title": "Cowntact Tracing",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1356",
+        "whole_title": "USACO 2023 December Contest, Platinum \n Problem 1. Cowntact Tracing",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "A Graph Problem",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1357",
+        "whole_title": "USACO 2023 December Contest, Platinum \n Problem 2. A Graph Problem",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Train Scheduling",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1358",
+        "whole_title": "USACO 2023 December Contest, Platinum \n Problem 3. Train Scheduling",
+        "io_file": "stdio"
+      }
+    },
+    "Gold": {
+      "1": {
+        "title": "Flight Routes",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1353",
+        "whole_title": "USACO 2023 December Contest, Gold \n Problem 1. Flight Routes",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Minimum Longest Trip",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1354",
+        "whole_title": "USACO 2023 December Contest, Gold \n Problem 2. Minimum Longest Trip",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Haybale Distribution",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1355",
+        "whole_title": "USACO 2023 December Contest, Gold \n Problem 3. Haybale Distribution",
+        "io_file": "stdio"
+      }
+    },
+    "Silver": {
+      "1": {
+        "title": "Bovine Acrobatics",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1350",
+        "whole_title": "USACO 2023 December Contest, Silver \n Problem 1. Bovine Acrobatics",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Cycle Correspondence",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1351",
+        "whole_title": "USACO 2023 December Contest, Silver \n Problem 2. Cycle Correspondence",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Target Practice",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1352",
+        "whole_title": "USACO 2023 December Contest, Silver \n Problem 3. Target Practice",
+        "io_file": "stdio"
+      }
+    },
+    "Bronze": {
+      "1": {
+        "title": "Candy Cane Feast",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1347",
+        "whole_title": "USACO 2023 December Contest, Bronze \n Problem 1. Candy Cane Feast",
+        "io_file": "stdio"
+      },
+      "2": {
+        "title": "Cowntact Tracing 2",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1348",
+        "whole_title": "USACO 2023 December Contest, Bronze \n Problem 2. Cowntact Tracing 2",
+        "io_file": "stdio"
+      },
+      "3": {
+        "title": "Farmer John Actually Farms",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1349",
+        "whole_title": "USACO 2023 December Contest, Bronze \n Problem 3. Farmer John Actually Farms",
+        "io_file": "stdio"
+      }
+    }
+  },
   "2023open": {
     "Platinum": {
       "1": {
