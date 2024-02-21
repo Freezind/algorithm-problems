@@ -1,8 +1,42 @@
 # USACO
-#### Bronze Solved 0/168 0.00%
-#### Silver Solved 0/162 0.00%
-#### Gold Solved 0/161 0.00%
-#### Platinum Solved 0/96 0.00%
+#### Bronze Solved 0/174 0.00%
+#### Silver Solved 0/168 0.00%
+#### Gold Solved 0/167 0.00%
+#### Platinum Solved 0/102 0.00%
+# 2024jan
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Island Vacation | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1380) | [2024jan/Platinum/1.py](2024jan/Platinum/1.py) | unsolved |
+| Platinum 2 | Merging Cells | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1381) | [2024jan/Platinum/2.py](2024jan/Platinum/2.py) | unsolved |
+| Platinum 3 | Mooball Teams III | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1382) | [2024jan/Platinum/3.py](2024jan/Platinum/3.py) | unsolved |
+| Gold 1 | Walking in Manhattan | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1377) | [2024jan/Gold/1.py](2024jan/Gold/1.py) | unsolved |
+| Gold 2 | Cowmpetency | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1378) | [2024jan/Gold/2.py](2024jan/Gold/2.py) | unsolved |
+| Gold 3 | Nap Sort | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1379) | [2024jan/Gold/3.py](2024jan/Gold/3.py) | unsolved |
+| Silver 1 | Cowmpetency | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1374) | [2024jan/Silver/1.py](2024jan/Silver/1.py) | unsolved |
+| Silver 2 | Potion Farming | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1375) | [2024jan/Silver/2.py](2024jan/Silver/2.py) | unsolved |
+| Silver 3 | Cowlendar | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1376) | [2024jan/Silver/3.py](2024jan/Silver/3.py) | unsolved |
+| Bronze 1 | Majority Opinion | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1371) | [2024jan/Bronze/1.py](2024jan/Bronze/1.py) | unsolved |
+| Bronze 2 | Cannonball | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1372) | [2024jan/Bronze/2.py](2024jan/Bronze/2.py) | unsolved |
+| Bronze 3 | Balancing Bacteria | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1373) | [2024jan/Bronze/3.py](2024jan/Bronze/3.py) | unsolved |
+
+# 2023dec
+
+| Problem | Problem Title | Problem Link | Code | Status |
+|---------|---------------|--------------|------|--------|
+| Platinum 1 | Cowntact Tracing | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1356) | [2023dec/Platinum/1.py](2023dec/Platinum/1.py) | unsolved |
+| Platinum 2 | A Graph Problem | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1357) | [2023dec/Platinum/2.py](2023dec/Platinum/2.py) | unsolved |
+| Platinum 3 | Train Scheduling | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1358) | [2023dec/Platinum/3.py](2023dec/Platinum/3.py) | unsolved |
+| Gold 1 | Flight Routes | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1353) | [2023dec/Gold/1.py](2023dec/Gold/1.py) | unsolved |
+| Gold 2 | Minimum Longest Trip | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1354) | [2023dec/Gold/2.py](2023dec/Gold/2.py) | unsolved |
+| Gold 3 | Haybale Distribution | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1355) | [2023dec/Gold/3.py](2023dec/Gold/3.py) | unsolved |
+| Silver 1 | Bovine Acrobatics | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1350) | [2023dec/Silver/1.py](2023dec/Silver/1.py) | unsolved |
+| Silver 2 | Cycle Correspondence | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1351) | [2023dec/Silver/2.py](2023dec/Silver/2.py) | unsolved |
+| Silver 3 | Target Practice | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1352) | [2023dec/Silver/3.py](2023dec/Silver/3.py) | unsolved |
+| Bronze 1 | Candy Cane Feast | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1347) | [2023dec/Bronze/1.py](2023dec/Bronze/1.py) | unsolved |
+| Bronze 2 | Cowntact Tracing 2 | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1348) | [2023dec/Bronze/2.py](2023dec/Bronze/2.py) | unsolved |
+| Bronze 3 | Farmer John Actually Farms | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=1349) | [2023dec/Bronze/3.py](2023dec/Bronze/3.py) | unsolved |
+
 # 2023open
 
 | Problem | Problem Title | Problem Link | Code | Status |
